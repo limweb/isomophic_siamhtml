@@ -1,0 +1,14 @@
+server.bat
+g.bat
+glog.bat
+gitk.bat
+gstatus.bat
+gpull.bat
+reset.bat
+server.bat
+.htaccess
+node_modules/*
+vendor/*
+nohup.out
+sftp-config.json
+composer.lock
